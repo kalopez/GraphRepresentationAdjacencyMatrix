@@ -46,7 +46,7 @@ namespace GraphRepresentationAdjacencyMatrix
             }
         }
 
-        //Prints the adjacency Matrix. Time complexity is O(1) or constant time.
+        //Prints the adjacency Matrix. Time complexity is O(n^2) or quadratic time.
         public static void PrintAdjacencyMatrix(List<List<int>> matrix, List<char> vertices)
         {
             //print vertices' names
