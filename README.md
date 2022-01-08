@@ -10,6 +10,9 @@ Space complexity is O(V^2) where V is number of vertices.
 Time Complexity is O(V) where V is number of vertices.
 
 It can also find all the vertices that are connected to a vertex, as well as,  if two vertices in the graph are connected.
+
 ++++++++++++++++++++++++++++++
+
 Author: Katherine Lopez
+
 ++++++++++++++++++++++++++++++
