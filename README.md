@@ -9,11 +9,7 @@ of vertices. Otherwise, it can result in a lot of wasted space.
 Space complexity is O(V^2) where V is number of vertices. 
 Time Complexity is O(V) where V is number of vertices.
 
-Later on, additional functionality such as finding if two nodes are connected or being able to pass in a list of nodes
-and edges might be added to the program.
+It can also find all the vertices that are connected to a vertex, as well as,  if two vertices in the graph are connected.
 ++++++++++++++++++++++++++++++
-
-Author: 
-
-Katherine Lopez
+Author: Katherine Lopez
 ++++++++++++++++++++++++++++++
